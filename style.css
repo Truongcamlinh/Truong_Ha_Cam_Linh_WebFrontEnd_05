@@ -1,0 +1,25 @@
+/*Cascading trong CSS*/
+ul {
+    background-color: pink;
+}
+ul {
+    background-color: aliceblue;
+}
+h1 {
+    background-color: aquamarine;
+}
+#second-li
+{
+ color: pink;
+ background-color: black;
+}
+.demo-class
+{
+    color: yellow;
+    background-color: aliceblue;
+}
+.text-transform{
+    font-size: xx-small;
+
+}
+.first-content
